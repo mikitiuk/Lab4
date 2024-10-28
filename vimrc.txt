@@ -1,0 +1,2 @@
+:set guifont=Consolas:h16
+:set encoding=utf-8
